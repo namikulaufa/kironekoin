@@ -1,6 +1,6 @@
 userbot = {
- owner: [ "6289534297851p","628985334600","6285252703209", "62xxxx", "42382xxxx", "62xxxxx" ],
-  MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
+ owner: [ "6285217835752", "380946298137","6289646548836" ],
+  MONGO_URI: "mongodb+srv://yufadanis110903@gmail.com:@Oryzhasativa03@cluster0.eyx0e.mongodb.net/Cluster0?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
@@ -10,16 +10,16 @@ userbot = {
    limit: 10,
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
-   butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: '༻𝙍𝙞𝙭𝙡𝙚𝘽𝙤𝙩༺',
+   butmag: 'https://i.ibb.co/XJHWhvb/380-94-629-8137-20211105-110105.jpg', // buat Image Button
+   packname: 'KIRONEKO-BOT',
    author: '@_RizkyAdi',
     setting: {
-    admin: "only admin",
-    group: "only group",
-    owner: "owner only pack",
-    jadibot: "jadibot only",
+    admin: "only admin can use this",
+    group: "only group can use this,
+    owner: "owner only pack can use this,
+    jadibot: "jadibot only can use this",
     botadmin: "bot harus menjadi admin",
-    nsfw: "FITUR BELUM DIAKTIFKAN!"
+    nsfw: "FITUR DERENG DIPUNMURUPAKEN!"
     }
 }
 module.exports = userbot
